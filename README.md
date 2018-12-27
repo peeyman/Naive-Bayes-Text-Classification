@@ -16,4 +16,5 @@ n_records = 10000
 - numpy
 
 
-!['Readme Image'] (https://github.com/peeyman/Naive-Bayes-Text-Classification/blob/master/Pics/BayesianNetwork.jpg)
+
+!['Readme Image'](https://github.com/peeyman/Naive-Bayes-Text-Classification/blob/master/Pics/BayesianNetwork.jpg)
