@@ -1,6 +1,6 @@
 # <center>Naive Bayes Text Classification</center>
 
-<p align='justify'>This notebook is a both theoretical and practical review of Naive Bayes classifier. To make theoretical part more understandable it is supported by an example. The application which Naive Bayes classifier applied upon in this notebook is text classification, more specifically "sentiment analysis".</p>
+<p align='justify'>This notebook is a both theoretical and practical review of Naive Bayes classifier. To make theoretical part more understandable, it is supported by an example. The application which Naive Bayes classifier applied upon in this notebook is text classification, more specifically "sentiment analysis".</p>
 
 
 ## Data
